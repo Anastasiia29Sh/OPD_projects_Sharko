@@ -1,0 +1,60 @@
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\bin\Debug\net6.0\program.exe
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\bin\Debug\net6.0\program.deps.json
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\bin\Debug\net6.0\program.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\bin\Debug\net6.0\program.dll
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\bin\Debug\net6.0\ref\program.dll
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\bin\Debug\net6.0\program.pdb
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\program.dll
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\ref\program.dll
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\program.pdb
+C:\Users\Lenovo\Desktop\Задание2_C#\program\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\bin\Debug\net6.0\program.exe
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\bin\Debug\net6.0\program.deps.json
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\bin\Debug\net6.0\program.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\bin\Debug\net6.0\program.dll
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\bin\Debug\net6.0\ref\program.dll
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\bin\Debug\net6.0\program.pdb
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\program.dll
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\ref\program.dll
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\program.pdb
+C:\Users\Lenovo\Desktop\C# (6 сем)\Задание2_C#\program\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\bin\Debug\net6.0\program.exe
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\bin\Debug\net6.0\program.deps.json
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\bin\Debug\net6.0\program.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\bin\Debug\net6.0\program.dll
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\bin\Debug\net6.0\ref\program.dll
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\bin\Debug\net6.0\program.pdb
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\program.dll
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\ref\program.dll
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\program.pdb
+C:\Users\Lenovo\Desktop\ОПД1_C#\program\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\bin\Debug\net6.0\program.exe
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\bin\Debug\net6.0\program.deps.json
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\bin\Debug\net6.0\program.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\bin\Debug\net6.0\program.dll
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\bin\Debug\net6.0\ref\program.dll
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\bin\Debug\net6.0\program.pdb
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\program.dll
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\ref\program.dll
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\program.pdb
+C:\Users\Lenovo\Desktop\ОПД1_SortMatrix_C#\program\program\obj\Debug\net6.0\program.genruntimeconfig.cache
